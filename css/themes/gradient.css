@@ -1,0 +1,19 @@
+/* Theme */
+
+main {
+	height: 200px;
+                    background-image: linear-gradient(to bottom right, #C22ED0,  #5FFAE0);
+	color: #FAFAFA;
+}
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
+}
+
+
+
+
